@@ -1,3 +1,4 @@
 # Your code here
 def meal_choice(meal = "meat")
-  puts ""
+  puts "A plate of #{meal} with broccoli and macaroni."
+end
